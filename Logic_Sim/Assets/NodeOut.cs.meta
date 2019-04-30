@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab95f2b9d5a6d294788f611ca3ae64ad
+timeCreated: 1542112669
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_TargetGraphic: {instanceID: 0}
+  - TransPrefab: {fileID: 1353890301490310, guid: e9a1812318130784f953c02cc9ebc9b3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

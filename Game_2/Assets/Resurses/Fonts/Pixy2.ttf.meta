@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8648fb04223ddd44e8b9d9a6f9a25854
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hannover Messe [RUS by Daymarius]
+  fontNames:
+  - Hannover Messe [RUS by Daymarius]
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
